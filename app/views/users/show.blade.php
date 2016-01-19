@@ -51,7 +51,7 @@
           No existe información para éste usuario.
         </p>
         @endif
-        <a href="/Php/laravel_1/public/users/" class="btn btn-default">Regresar</a>
+        <a href="/Php/laravel_1/public/users" class="btn btn-default">Regresar</a>
 		</div>
 	</div>
 </body>
